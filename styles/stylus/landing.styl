@@ -1,0 +1,190 @@
+html, body
+	width 100%
+	max-width 100%
+	height 100%
+	margin 0
+
+ul
+	padding 0
+
+img
+	max-width 100%
+
+.nifty-wordmark
+	display none
+	position absolute
+	top 50%
+	left 50%
+	transform translate(-50%, -50%)
+
+.background
+	background url("../../img/nifty-background.jpg") center center
+	background-size cover
+
+.background-overlay
+	width 100%
+	height 100%
+	opacity 0.6
+	background-color $white
+
+.menu-icon
+	position fixed
+	top 7px
+	right 0
+	width 45px
+	height 45px
+	z-index 20000
+	cursor pointer
+	&:hover
+		.menu-bar
+			background-color lighten($grey, 30%)
+	&.close-menu
+		.x-first
+			transform rotate(44deg) translate(6px, 7px)
+		.x-hide
+			opacity 0
+		.x-last
+			transform rotate(-44deg) translate(5px, -7px)
+
+.menu-bar
+	width 27px
+	height 4px
+	margin 5px auto
+	background-color $darkgrey
+	transition all 0.5s
+
+.logo
+	display none
+	opacity 0
+	position absolute
+	top 20px
+	left 50%
+	transform translateX(-50%)
+	width 425px
+	@media (max-width: 700px)
+		width 350px
+	@media (max-width: 555px)
+		width 250px
+	@media (max-width: 360px)
+		top 15px
+		width 200px
+
+.headline
+	position absolute
+	z-index 100
+	bottom -25px
+	width 100%
+	height auto
+	margin 0
+	text-align center
+	font-family 'bebas-neue'
+	font-size 95px
+	color $white
+	transition all 0.7s ease
+	&.is-intro
+		color $lightgrey
+		bottom 45%
+	@media (max-width: 1170px)
+		font-size 85px
+		bottom -23px
+	@media (max-width: 1060px)
+		font-size 75px
+		bottom -21px
+	@media (max-width: 950px)
+		font-size 65px
+		bottom -19px
+	@media (max-width: 840px)
+		font-size 55px
+		bottom -16px
+	@media (max-width: 740px)
+		font-size 45px
+		bottom -12px
+	@media (max-width: 360px)
+		font-size 35px
+		bottom -9px
+
+.is-intro
+	.background-overlay
+		opacity 1
+	.background
+		top 0px
+		left 0px
+		right 0px
+		bottom 0px
+	.landing-actions
+		display none
+
+.btn
+	width 160px
+	padding 15px
+	margin 10px 20px
+	border 2px solid $white
+	font-family 'bebas-neue-bold'
+	font-size 1.2em
+	transition all 0.6s
+	@media (max-width: 555px)
+		padding 10px
+		margin 10px 10px
+	@media (max-width: 370px)
+		margin 10px 5px
+		width 140px
+
+.btn-green
+	background-color $green
+	&:hover
+		background-color darken($green, 25%)
+
+.btn-grey
+	background-color $grey
+	color $white
+	&:hover
+		background-color darken($grey, 25%)
+
+.btn-blue
+	background-color $sqwrlblue
+	color $white
+	&:hover
+		background-color darken($sqwrlblue, 25%)
+
+.btn-large
+	width 200px
+	margin 25px auto 125px auto
+	border 2px solid $cream
+
+.landing-actions
+	position absolute
+	width 100%
+	margin 0 auto
+	top 500px
+	color $darkgrey
+	text-align center
+	button
+		display inline-block
+	@media (max-width: 700px)
+		top 430px
+	@media (max-width: 555px)
+		top 320px
+	@media (max-width: 360px)
+		top 230px
+
+.footer
+	background-color $darkgrey
+	text-align center
+	padding 70px 0 50px 0
+
+.social-icons
+	margin 50px auto
+	text-align center
+	img
+		margin 0 20px
+
+.footer-email
+	color $white
+	font-size 1.7em
+	font-family 'Fenix'
+	text-decoration none
+	transition color 0.5s
+	&:hover
+		color $lightgrey
+
+

@@ -1,0 +1,176 @@
+.page
+	position fixed
+	max-width 100%
+	top 45px
+	right 45px
+	bottom 45px
+	left 45px
+	@media (max-width: 650px)
+		left 0
+		right 0
+		bottom 15px
+
+.page-heading
+	color $darkgrey
+	font-size 2.2em
+	font-family 'bebas-neue'
+	margin 10px auto
+
+.page-heading-container
+	margin 0 45px
+	padding 25px 0
+	background-color $offwhite
+
+.page-heading-border
+	border-top 1px solid $grey
+	width 40px
+	margin 0 auto
+
+.page-subheading
+	padding 50px 0
+	color $grey
+	font-family 'Fenix'
+
+
+/* WORK
+   -------------------------------------------------- */
+
+.page-work
+	display none
+	left 0
+	right 0
+	bottom 0
+	text-align center
+
+.work-item
+	position relative
+	width 100%
+	height 500px
+	padding 78px 0 0 0
+	margin 0 auto
+	vertical-align top
+	border-bottom 3px solid $white
+	background-color $lightgrey
+
+.work-sqwrl-app
+	color $white
+	background-color $sqwrlred
+
+.work-sqwrl-pitch
+	color $white
+	background-color $sqwrlblue
+	img
+		width 230px
+		margin 5px auto 15px auto
+
+.work-phils
+	color $black
+	padding-top 40px
+	background url("../../img/philsphoto.jpg") no-repeat center center
+	background-size cover
+	img
+		height 200px
+	.work-company
+		font-family 'bebas-neue-bold'
+
+.work-rainwater
+	color $white
+	background url("../../img/raindrop.jpg") no-repeat center center
+	background-size cover
+	img
+		height 130px
+
+.work-mask-app
+	color $black
+	background-color $neongreen
+
+.work-moje
+	color $black
+	background url("../../img/madamemojebg.jpg") no-repeat center center
+	background-size cover
+	img
+		height 140px
+	.work-company
+		margin-top 0
+		font-family 'bebas-neue-bold'
+
+
+.work-company
+	margin-bottom 0
+	font-family 'bebas-neue'
+
+.work-title
+	margin 12px auto
+	font-family 'bebas-neue'
+	
+.work-subtitle
+	margin-top 0
+	margin-bottom 35px
+	font-size 1.2em
+	font-family 'Fenix'
+
+
+
+/* ABOUT
+   -------------------------------------------------- */
+
+.page-about
+	display none
+	padding-top 35px
+	background-color $cream
+	border 15px solid $green
+	text-align center
+
+.about-content
+	padding 50px 0
+
+.about-profile
+	display inline-block
+	width 30%
+	padding-top 30%
+	margin 0 30px
+	background-color $offwhite
+	border 3px solid $white
+	border-radius 50%
+	vertical-align top
+	box-sizing content-box
+	@media (max-width: 950px)
+		width 40%
+		padding-top 40%
+
+.about-copy
+	display inline-block
+	width 45%
+	margin 0 30px
+	padding-top 2%
+	color $lightgrey
+	font-size 1.8em
+	vertical-align top
+	@media (max-width: 1100px)
+		font-size 1.6em
+	@media (max-width: 950px)
+		font-size 1.5em
+		width 100%
+		margin 0 auto
+		padding 50px
+
+
+/* CONTACT
+   -------------------------------------------------- */
+
+.page-contact
+	display none
+	padding-top 35px 
+	background-color $cream
+	border 15px solid $green
+	text-align center
+
+.contact-link
+	color $grey
+	text-decoration none
+	font-size 6em
+	font-family 'Fenix'
+	transition color 0.6s
+	&:hover
+		color $green
+

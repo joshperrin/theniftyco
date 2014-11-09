@@ -1,0 +1,1517 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "18027",
+"files": {
+	"\/404.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/404.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/apple-touch-icon-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1226,
+		"inputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/CHANGELOG.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/CHANGELOG.md",
+		"outputAbbreviatedPath": "\/CHANGELOG.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/CONTRIBUTING.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/CONTRIBUTING.md",
+		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/crossdomain.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/crossdomain.md",
+		"outputAbbreviatedPath": "\/doc\/crossdomain.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/css.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/css.md",
+		"outputAbbreviatedPath": "\/doc\/css.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/extend.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/extend.md",
+		"outputAbbreviatedPath": "\/doc\/extend.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/faq.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/faq.md",
+		"outputAbbreviatedPath": "\/doc\/faq.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/html.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/html.md",
+		"outputAbbreviatedPath": "\/doc\/html.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/js.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/js.md",
+		"outputAbbreviatedPath": "\/doc\/js.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/misc.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/misc.md",
+		"outputAbbreviatedPath": "\/doc\/misc.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/TOC.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/TOC.md",
+		"outputAbbreviatedPath": "\/doc\/TOC.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/doc\/usage.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/doc\/usage.md",
+		"outputAbbreviatedPath": "\/doc\/usage.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/adaptable-view.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215478,
+		"inputAbbreviatedPath": "\/img\/adaptable-view.jpg",
+		"outputAbbreviatedPath": "\/img\/adaptable-view.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/beach-sunset.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 856950,
+		"inputAbbreviatedPath": "\/img\/beach-sunset.jpg",
+		"outputAbbreviatedPath": "\/img\/beach-sunset.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/beautiful-profile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204430,
+		"inputAbbreviatedPath": "\/img\/beautiful-profile.jpg",
+		"outputAbbreviatedPath": "\/img\/beautiful-profile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/beautifully-simple-products.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65631,
+		"inputAbbreviatedPath": "\/img\/beautifully-simple-products.jpg",
+		"outputAbbreviatedPath": "\/img\/beautifully-simple-products.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/clouds-background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 513348,
+		"inputAbbreviatedPath": "\/img\/clouds-background.jpg",
+		"outputAbbreviatedPath": "\/img\/clouds-background.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/collecting-challenges.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111809,
+		"inputAbbreviatedPath": "\/img\/collecting-challenges.jpg",
+		"outputAbbreviatedPath": "\/img\/collecting-challenges.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/forest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.3583e+06,
+		"inputAbbreviatedPath": "\/img\/forest.jpg",
+		"outputAbbreviatedPath": "\/img\/forest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/highlight-nature.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233863,
+		"inputAbbreviatedPath": "\/img\/highlight-nature.jpg",
+		"outputAbbreviatedPath": "\/img\/highlight-nature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/interactive-data.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99756,
+		"inputAbbreviatedPath": "\/img\/interactive-data.jpg",
+		"outputAbbreviatedPath": "\/img\/interactive-data.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/iPad-MadameMoje.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/iPad-MadameMoje.png",
+		"outputAbbreviatedPath": "\/img\/iPad-MadameMoje.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/iPad-Maskapic.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/iPad-Maskapic.png",
+		"outputAbbreviatedPath": "\/img\/iPad-Maskapic.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/iPad-Phils.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/iPad-Phils.png",
+		"outputAbbreviatedPath": "\/img\/iPad-Phils.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/iPad-Sqwrl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/iPad-Sqwrl.png",
+		"outputAbbreviatedPath": "\/img\/iPad-Sqwrl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/iPad-SqwrlPitchdeck.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/iPad-SqwrlPitchdeck.png",
+		"outputAbbreviatedPath": "\/img\/iPad-SqwrlPitchdeck.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/iPad-WestCoastRain.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/iPad-WestCoastRain.png",
+		"outputAbbreviatedPath": "\/img\/iPad-WestCoastRain.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/madamemojebg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68197,
+		"inputAbbreviatedPath": "\/img\/madamemojebg.jpg",
+		"outputAbbreviatedPath": "\/img\/madamemojebg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/nifty-background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93336,
+		"inputAbbreviatedPath": "\/img\/nifty-background.jpg",
+		"outputAbbreviatedPath": "\/img\/nifty-background.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/paralax-homepage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151732,
+		"inputAbbreviatedPath": "\/img\/paralax-homepage.jpg",
+		"outputAbbreviatedPath": "\/img\/paralax-homepage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/phils-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66910,
+		"inputAbbreviatedPath": "\/img\/phils-logo.png",
+		"outputAbbreviatedPath": "\/img\/phils-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/phils-menu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/phils-menu.jpg",
+		"outputAbbreviatedPath": "\/img\/phils-menu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/philsphoto.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32797,
+		"inputAbbreviatedPath": "\/img\/philsphoto.jpg",
+		"outputAbbreviatedPath": "\/img\/philsphoto.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/raindrop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35397,
+		"inputAbbreviatedPath": "\/img\/raindrop.jpg",
+		"outputAbbreviatedPath": "\/img\/raindrop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/responsive-maskapic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201543,
+		"inputAbbreviatedPath": "\/img\/responsive-maskapic.jpg",
+		"outputAbbreviatedPath": "\/img\/responsive-maskapic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/responsive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 301745,
+		"inputAbbreviatedPath": "\/img\/responsive.jpg",
+		"outputAbbreviatedPath": "\/img\/responsive.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/showoff-video.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115622,
+		"inputAbbreviatedPath": "\/img\/showoff-video.jpg",
+		"outputAbbreviatedPath": "\/img\/showoff-video.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/soundtrack-screen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80874,
+		"inputAbbreviatedPath": "\/img\/soundtrack-screen.jpg",
+		"outputAbbreviatedPath": "\/img\/soundtrack-screen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/squarespace-interface.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60755,
+		"inputAbbreviatedPath": "\/img\/squarespace-interface.jpg",
+		"outputAbbreviatedPath": "\/img\/squarespace-interface.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/three-easy-steps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92975,
+		"inputAbbreviatedPath": "\/img\/three-easy-steps.jpg",
+		"outputAbbreviatedPath": "\/img\/three-easy-steps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/main.js",
+		"outputAbbreviatedPath": "\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/main-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/main-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/main-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/plugins-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/plugins-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/plugins-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/plugins.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/plugins.js",
+		"outputAbbreviatedPath": "\/js\/min\/plugins-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/jquery-1.10.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.10.2.min.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/jquery-1.10.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/modernizr-2.6.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/modernizr-2.6.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/velocity.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/velocity.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/velocity-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/velocity.ui.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/velocity.ui.js",
+		"outputAbbreviatedPath": "\/js\/vendor\/min\/velocity.ui-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/LICENSE.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/LICENSE.md",
+		"outputAbbreviatedPath": "\/LICENSE.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/styles\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/styles\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/styles\/css\/menu.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/styles\/css\/menu.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/styles\/css\/normalize.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/styles\/css\/normalize.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/styles\/stylus\/buttons.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/styles\/stylus\/buttons.styl",
+		"outputAbbreviatedPath": "\/styles\/css\/buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/styles\/stylus\/fonts.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/styles\/stylus\/fonts.styl",
+		"outputAbbreviatedPath": "\/styles\/css\/fonts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/styles\/stylus\/landing.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/styles\/stylus\/landing.styl",
+		"outputAbbreviatedPath": "\/styles\/css\/landing.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/styles\/stylus\/main.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/styles\/stylus\/main.styl",
+		"outputAbbreviatedPath": "\/styles\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/styles\/stylus\/menu.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/styles\/stylus\/menu.styl",
+		"outputAbbreviatedPath": "\/styles\/css\/menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/styles\/stylus\/overlays.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/styles\/stylus\/overlays.styl",
+		"outputAbbreviatedPath": "\/styles\/css\/overlays.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/styles\/stylus\/pages.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/styles\/stylus\/pages.styl",
+		"outputAbbreviatedPath": "\/styles\/css\/pages.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/styles\/stylus\/variables.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/styles\/stylus\/variables.styl",
+		"outputAbbreviatedPath": "\/styles\/css\/variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Josh Perrin",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "Nifty Website",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "meme-wonka"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 5,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 1,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
