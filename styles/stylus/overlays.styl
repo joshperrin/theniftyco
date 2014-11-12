@@ -10,12 +10,22 @@
 		font-size 4em
 		color $white
 		margin 30px auto 0 auto
+		text-shadow 2px 4px 3px rgba(0,0,0,0.3)
 		font-family 'bebas-neue'
+		@media (max-width: 825px)
+			padding 0 20px
+		@media (max-width: 550px)
+			font-size 3em
 	h2
 		font-size 1.9em
 		color $white
 		margin 0 auto 30px auto
+		text-shadow 2px 4px 3px rgba(0,0,0,0.3)
 		font-family 'Fenix'
+		@media (max-width: 825px)
+			padding 0 20px
+		@media (max-width: 550px)
+			font-size 1.6em
 	h3
 		font-size 2.5em
 		color $grey
@@ -54,13 +64,30 @@
 	right 0
 	height 650px
 	z-index -1
+	@media (max-width: 655px)
+		height 550px
+	@media (max-width: 525px)
+		height 500px
+	@media (max-width: 450px)
+		height 450px
 
 .sqwrlapp-background
 	background url("../../img/clouds-background.jpg") bottom
 	background-size cover
+	&:after
+		content ""
+		position absolute
+		top 0
+		left 0
+		height 100%
+		width 100%
+		z-index 10
+		background-color rgba(0,0,0,0.2)
 
 .feature-image
 	padding 0 75px
+	@media (max-width: 675px)
+		padding 0 25px
 
 .feature-paragraph
 	max-width 850px
@@ -68,6 +95,10 @@
 	font-size 1.6em
 	color $grey
 	font-family 'Fenix'
+	@media (max-width: 675px)
+		margin 30px auto 10px auto
+		padding 0 20px
+		font-size 1.3em
 
 .title
 	position relative
@@ -97,6 +128,8 @@
 .beautiful-profile
 	max-width 1100px
 	margin 40px auto 100px
+	@media (max-width: 1110px)
+		max-width 95%
 
 .adaptable-view
 	padding 0 100px

@@ -3,9 +3,13 @@ html, body
 	max-width 100%
 	height 100%
 	margin 0
+	text-align center
 
 ul
 	padding 0
+
+a
+	color $blue
 
 img
 	max-width 100%
@@ -16,6 +20,11 @@ img
 	top 50%
 	left 50%
 	transform translate(-50%, -50%)
+	@media (max-width: 550px)
+		position static
+		transform none
+		width 95%
+		margin 40% auto 0 auto
 
 .background
 	background url("../../img/nifty-background.jpg") center center
@@ -121,7 +130,7 @@ img
 	border 2px solid $white
 	font-family 'bebas-neue-bold'
 	font-size 1.2em
-	transition all 0.6s
+	transition all 1s
 	@media (max-width: 555px)
 		padding 10px
 		margin 10px 10px
@@ -140,6 +149,11 @@ img
 	&:hover
 		background-color darken($grey, 25%)
 
+.btn-white
+	background-color $offwhite
+	&:hover
+		background-color darken($offwhite, 25%)
+
 .btn-blue
 	background-color $sqwrlblue
 	color $white
@@ -147,9 +161,14 @@ img
 		background-color darken($sqwrlblue, 25%)
 
 .btn-large
-	width 200px
-	margin 25px auto 125px auto
+	display block
+	color $white
+	text-decoration none
+	width 250px
+	margin 70px auto 125px auto
 	border 2px solid $cream
+	@media (max-width: 675px)
+		margin 25px auto 100px auto
 
 .landing-actions
 	position absolute
@@ -172,9 +191,16 @@ img
 	text-align center
 	padding 70px 0 50px 0
 
+.footer-wordmark
+	display block
+	max-width 90%
+	margin 0 auto
+
 .social-icons
 	margin 50px auto
 	text-align center
+	a
+		text-decoration none
 	img
 		margin 0 20px
 
