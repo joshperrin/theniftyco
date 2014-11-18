@@ -68,8 +68,8 @@ var close_about_page = function() {
 var open_contact_page = function() {
   if (menu_is_visible()) {close_menu();}
   if (about_is_visible()) {close_about_page();}
-  $('.main-content').velocity("fadeOut", {duration: 700});
-  $('.page-contact').velocity({translateX: 0, translateZ: 0}, {delay: 300, display: "auto"});
+  $('.main-content').velocity("fadeOut", {duration: 500});
+  $('.page-contact').velocity({translateX: 0, translateZ: 0}, {delay: 500, display: "auto"});
   $(document.body).addClass("visible-contact");
 };
 
@@ -82,8 +82,8 @@ var close_contact_page = function() {
 var open_about_page = function() {
   if (menu_is_visible()) {close_menu();}
   if (contact_is_visible()) {close_contact_page();}
-  $('.main-content').velocity("fadeOut", {duration: 700});
-  $('.page-about').velocity({translateX: 0}, {delay: 300, display: 'auto'});
+  $('.main-content').velocity("fadeOut", {duration: 500});
+  $('.page-about').velocity({translateX: 0}, {delay: 500, display: 'auto'});
   $(document.body).addClass('visible-about');
 };
 
