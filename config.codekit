@@ -189,6 +189,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/iPad-Pitchdeck.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13447,
+		"inputAbbreviatedPath": "\/img\/iPad-Pitchdeck.png",
+		"outputAbbreviatedPath": "\/img\/iPad-Pitchdeck.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/iPad-Sqwrl.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -196,17 +207,6 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/img\/iPad-Sqwrl.png",
 		"outputAbbreviatedPath": "\/img\/iPad-Sqwrl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/iPad-SqwrlPitchdeck.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/img\/iPad-SqwrlPitchdeck.png",
-		"outputAbbreviatedPath": "\/img\/iPad-SqwrlPitchdeck.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -483,6 +483,277 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/maskapic.com\/assets\/glyphicons-halflings-2851b489e8c39f8fad44fc10efb99c3e.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12799,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/glyphicons-halflings-2851b489e8c39f8fad44fc10efb99c3e.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/assets\/glyphicons-halflings-2851b489e8c39f8fad44fc10efb99c3e.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/assets\/glyphicons-halflings-white-6cccd17a7aed91dbc0157d343c68c0d9.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8777,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/glyphicons-halflings-white-6cccd17a7aed91dbc0157d343c68c0d9.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/assets\/glyphicons-halflings-white-6cccd17a7aed91dbc0157d343c68c0d9.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/assets\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/maskapic.com\/assets\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/main.js",
+		"outputAbbreviatedPath": "\/maskapic.com\/assets\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/maskapic.com\/assets\/shadowbox\/close-4481fc1515d9fafeb0066a2a38b9ed5e.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/close-4481fc1515d9fafeb0066a2a38b9ed5e.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/close-4481fc1515d9fafeb0066a2a38b9ed5e.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/assets\/shadowbox\/next-9bd66214591f62dd54989a95c8903500.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/next-9bd66214591f62dd54989a95c8903500.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/next-9bd66214591f62dd54989a95c8903500.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/assets\/shadowbox\/pause-51ae574a4c566375a95601ef49ea3c2b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 155,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/pause-51ae574a4c566375a95601ef49ea3c2b.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/pause-51ae574a4c566375a95601ef49ea3c2b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/assets\/shadowbox\/play-f78218c9907aaed45d573c90ac5ac6a5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/play-f78218c9907aaed45d573c90ac5ac6a5.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/play-f78218c9907aaed45d573c90ac5ac6a5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/assets\/shadowbox\/previous-d37664997b3f1f54194706d6e69f5fe8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 237,
+		"inputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/previous-d37664997b3f1f54194706d6e69f5fe8.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/assets\/shadowbox\/previous-d37664997b3f1f54194706d6e69f5fe8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/1-2-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4022,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/1-2-3.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/1-2-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/after.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14419,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/after.jpg",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/after.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36099,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/before.jpg",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/before.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101231,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/bg.jpg",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/contrast.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130845,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/contrast.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/contrast.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/crop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29776,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/crop.jpg",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/crop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 829,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/facebook.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/getitongoogle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8813,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/getitongoogle.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/getitongoogle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/mask.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124777,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/mask.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/mask.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/maskapiclogo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20805,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/maskapiclogo.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/maskapiclogo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/one.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1471,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/one.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/one.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/play-video-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3662,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/play-video-icon.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/play-video-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/three.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1743,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/three.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/three.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 988,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/twitter.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/images\/two.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1649,
+		"inputAbbreviatedPath": "\/maskapic.com\/images\/two.png",
+		"outputAbbreviatedPath": "\/maskapic.com\/images\/two.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/maskapic.com\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/maskapic.com\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/styles\/css\/main.css": {
 		"fileType": 16,

@@ -1,0 +1,49 @@
+.btn
+	width 160px
+	padding 15px
+	margin 10px 20px
+	border 2px solid $white
+	font-family 'bebas-neue-bold'
+	font-size 1.2em
+	transition all 1s
+	@media (max-height: 480px)
+		padding 10px
+		margin 10px 10px
+	@media (max-width: 555px)
+		padding 10px
+		margin 10px 10px
+	@media (max-width: 370px)
+		margin 10px 5px
+		width 140px
+
+.btn-large
+	display block
+	color $white
+	text-decoration none
+	width 250px
+	margin 70px auto 125px auto
+	border 2px solid $cream
+	@media (max-width: 675px)
+		margin 25px auto 100px auto
+
+.btn-green
+	background-color $green
+	&:hover
+		background-color darken($green, 25%)
+
+.btn-grey
+	background-color $grey
+	color $white
+	&:hover
+		background-color darken($grey, 25%)
+
+.btn-white
+	background-color $offwhite
+	&:hover
+		background-color darken($offwhite, 25%)
+
+.btn-blue
+	background-color $sqwrlblue
+	color $white
+	&:hover
+		background-color darken($sqwrlblue, 25%)

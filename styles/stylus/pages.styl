@@ -5,16 +5,29 @@
 	right 45px
 	bottom 45px
 	left 45px
+	@media (max-height: 700px)
+		top 20px
+		left 20px
+		right 20px
+		bottom 20px
 	@media (max-width: 650px)
+		top 45px
 		left 0
 		right 0
 		bottom 15px
+	@media (max-height: 460px)
+		top 0
+		right 0
+		left 0
+		bottom 0
 
 .page-heading
 	color $darkgrey
 	font-size 2.2em
 	font-family 'bebas-neue'
 	margin 10px auto
+	@media (max-height: 350px)
+		font-size 1.5em
 	@media (max-width: 650px)
 		font-size 1.8em
 
@@ -32,6 +45,10 @@
 	padding 50px 0
 	color $grey
 	font-family 'Fenix'
+	@media (max-height: 375px)
+		padding 20px 0
+	@media (max-height: 300px)
+		padding 0
 
 
 /* WORK
@@ -52,7 +69,7 @@
 	position relative
 	width 100%
 	height 500px
-	padding 78px 0 0 0
+	padding 78px 15px 0 15px
 	margin 0 auto
 	vertical-align top
 	border-bottom 3px solid $white
@@ -147,9 +164,21 @@
 	vertical-align top
 	background-image url(/img/profile-photo.jpg)
 	background-size cover
+	@media (max-height: 675px)
+		margin 20px auto 0 auto
+	@media (max-height: 525px)
+		width 200px
+		padding-top 200px
+	@media (max-height: 475px)
+		width 120px
+		padding-top 120px
+	@media (max-height: 340px)
+		width 80px
+		padding-top 80px
+		margin 5px auto
 	@media (max-width: 950px)
-		width 40%
-		padding-top 40%
+		width 30%
+		padding-top 30%
 	@media (max-width: 650px)
 		margin 20px auto
 
@@ -165,6 +194,12 @@
 		color $blue
 		text-decoration none
 		cursor pointer
+	@media (max-height: 635px)
+		font-size 1.1em
+		margin 5px auto
+	@media (max-width: 950px)
+		font-size 1.2em
+		margin 10px auto
 	@media (max-width: 650px)
 		width 100%
 		font-size 1.1em
@@ -190,6 +225,8 @@
 	transition color 0.6s
 	&:hover
 		color $green
+	@media (max-height: 450px)
+		font-size 2.5em
 	@media (max-width: 650px)
 		font-size 1.5em
 
