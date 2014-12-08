@@ -3,7 +3,7 @@
 /*****************************************************************************/
 
 var intro_animation = function() {
-    $('.background-overlay').velocity({opacity: 0.6}, {duration: 700});
+    $('.background-overlay').velocity({opacity: 0.8}, {duration: 700});
     $('.headline').velocity({color: '#FFFFFF'}, {duration: 300});
     setTimeout(function() {$('.headline').removeClass('is-intro');}, 700);
     if ($(window).width() > 550) {
@@ -171,6 +171,14 @@ $(document.body).on('click', '.js-activate-contact', function() {
 
 $(document.body).on('click', '.js-activate-about', function() {
   open_about_page();
+});
+
+$(document.body).on('click', '.js-close-about', function() {
+  close_about_page();
+});
+
+$(document.body).on('click', '.js-close-contact', function() {
+  close_contact_page();
 });
 
 $('.page-work').on('click', '.js-open-overlay', function() {

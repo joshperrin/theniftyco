@@ -7,55 +7,55 @@
 <!--<![endif]-->
 
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title></title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 
-  <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-  <link rel="stylesheet" href="styles/css/main.css">
-  <link href='http://fonts.googleapis.com/css?family=Fenix' rel='stylesheet' type='text/css'>
-  <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    <link rel="stylesheet" href="styles/css/main.css">
+    <link href='http://fonts.googleapis.com/css?family=Fenix' rel='stylesheet' type='text/css'>
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 </head>
 
 <body>
-  <!--[if lt IE 7]>
+    <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
-  <!-- Nifty Website Main-Content -->
-  <div class="menu-icon open-menu">
-    <div class="menu-bar x-first"></div>
-    <div class="menu-bar x-hide"></div>
-    <div class="menu-bar x-last"></div>
-  </div>
+    <!-- Nifty Website Main-Content -->
+    <div class="menu-icon open-menu">
+        <div class="menu-bar x-first"></div>
+        <div class="menu-bar x-hide"></div>
+        <div class="menu-bar x-last"></div>
+    </div>
 
-  <main class="main-content">
+    <main class="main-content">
 
-    <section class="page background">
-      <div class='background-overlay'>
-      </div>
-      <img class="logo" src="/img/nifty-logo.svg">
-      <div class="landing-actions">
-        <button class="btn btn-green js-activate-work">View our work</button>
-        <button class="btn btn-grey js-activate-contact">Get in touch</button>
-      </div>
-      <h1 class="headline">We make nifty things for the web</h1>
-    </section>
+        <section class="page background">
+            <div class='background-overlay'>
+            </div>
+            <img class="logo" src="/img/nifty-logo.svg">
+            <div class="landing-actions">
+                <button class="btn btn-green js-activate-work">View our work</button>
+                <button class="btn btn-grey js-activate-contact">Get in touch</button>
+            </div>
+            <h1 class="headline js-activate-home">We make nifty things for the web</h1>
+        </section>
 
-    <section class="page page-work">
-      <div class="page-heading-container">
-        <div class="page-heading-border"></div>
-        <h1 class="page-heading">Our Work</h1>
-        <div class="page-heading-border"></div>
-      </div>
+        <section class="page page-work">
+            <div class="page-heading-container">
+                <div class="page-heading-border"></div>
+                <h1 class="page-heading">Our Work</h1>
+                <div class="page-heading-border"></div>
+            </div>
 
-      <div class="work-item work-sqwrl-app">
-        <img class="work-sqwrl-acorn" src="/img/acorn-white.svg">
-        <h3 class="work-company">Sqwrl Collective Inc.</h3>
-        <h1 class="work-title">The Future of Collecting</h2>
+            <div class="work-item work-sqwrl-app">
+                <img class="work-sqwrl-acorn" src="/img/acorn-white.svg">
+                <h3 class="work-company">Sqwrl Collective Inc.</h3>
+                <h1 class="work-title">The Future of Collecting</h2>
           <h2 class="work-subtitle">The Sqwrl collecting app, a responsive modern web app</h2>
           <button class="btn btn-grey js-open-overlay" data="overlay-sqwrlapp">View case study</button>
       </div>
@@ -115,141 +115,95 @@
   </main>
 
   <section class="page page-about">
+    <button class="overlay-close js-close-about">
+      <img src="/img/arrow-right.svg">
+      <p>Back</p>
+    </button>
     <div class="page-heading-border"></div>
     <h1 class="page-heading">About Nifty</h1>
-    <div class="page-heading-border"></div>
-    <div class="about-profile"></div>
-    <p class="about-copy">
-      The Nifty Co. is a Vancouver, Canada based web design and development studio founded by
-      <a href="http://ca.linkedin.com/in/joshperrin/" target="_blank">
-        Josh Perrin</a>.
-      We make clean, concise, and beautiful experiences for the web.
-      We specialize in
-      <a href="http://en.wikipedia.org/wiki/Responsive_web_design" target="_blank">responsive design</a>,
-      <a href="http://squarespace.com/seven" target="_blank">squarespace</a>, and
-      <a href="https://www.meteor.com/" target="_blank">meteorjs</a>.
-    </p>
-    <p class="about-copy">
-      You can
-      <span class="js-activate-work">view our work</span>, or
-      <span class="js-activate-contact">contact us</span>.
-    </p>
-  </section>
+                <div class="page-heading-border"></div>
+                <div class="about-profile"></div>
+                <p class="about-copy">
+                    The Nifty Co. is a Vancouver, Canada based web design and development studio founded by
+                    <a href="http://ca.linkedin.com/in/joshperrin/" target="_blank">
+        Josh Perrin</a>. We make clean, concise, and beautiful experiences for the web. We specialize in
+                    <a href="http://en.wikipedia.org/wiki/Responsive_web_design" target="_blank">responsive design</a>,
+                    <a href="http://squarespace.com/seven" target="_blank">squarespace</a>, and
+                    <a href="https://www.meteor.com/" target="_blank">meteorjs</a>.
+                </p>
+                <p class="about-copy">
+                    You can
+                    <span class="js-activate-work">view our work</span>, or
+                    <span class="js-activate-contact">contact us</span>.
+                </p>
+        </section>
 
-  <section class="page page-contact">
-    <div class="page-heading-border"></div>
-    <h1 class="page-heading">Get in touch</h1>
-    <div class="page-heading-border"></div>
+        <section class="page page-contact">
+          <button class="overlay-close js-close-contact">
+            <img src="/img/arrow-left.svg">
+            <p>Back</p>
+          </button>
+            <div class="page-heading-border"></div>
+            <h1 class="page-heading">Get in touch</h1>
+            <div class="page-heading-border"></div>
 
-    <h2 class="page-subheading">We can't wait to hear about your project...</h2>
-    <a class="contact-link" href="mailto:hello@thenifty.co">hello@thenifty.co</a>
-  </section>
+            <h2 class="page-subheading">We can't wait to hear about your project...</h2>
+            <a class="contact-link" href="mailto:hello@thenifty.co">hello@thenifty.co</a>
+        </section>
 
-  <nav class="main-menu">
-    <ul>
-      <li class="js-activate-home">Home</li>
-      <li class="js-activate-work">Our Work</li>
-      <li class="js-activate-about">About Nifty</li>
-      <li class="js-activate-contact">Get in touch</li>
-    </ul>
-  </nav>
+        <nav class="main-menu">
+            <ul>
+                <li class="js-activate-home">Home</li>
+                <li class="js-activate-work">Our Work</li>
+                <li class="js-activate-about">About Nifty</li>
+                <li class="js-activate-contact">Get in touch</li>
+            </ul>
+        </nav>
 
 
-  <!-- 
+        <!-- 
 //////////   Sqwrl App   ////////////
 -->
   <section class="overlay overlay-sqwrlapp">
     <div class="overlay-background sqwrlapp-background"></div>
-    <div class="overlay-close js-close-overlay">Return to All Work</div>
+    <button class="overlay-close js-close-overlay">
+      <img src="/img/arrow-left.svg">
+      <p>Back</p>
+    </button>
     <h1>The Future of Collecting</h2>
-      <h2>The Sqwrl collecting app, a responsive modern web app</h2>
-      <img class="feature-image" src="/img/iPad-Sqwrl.png">
-      <p class="feature-paragraph">
-        As VP of Product at Sqwrl Collective Inc, Nifty founder Josh Perrin was responsible for designing and crafting the interface for the future of collecting. With a focus on creating an interface which falls into the background while highlighting the collector's collections.
-      </p>
-      <a href="http://www.sqwrl.com/stream" target="_blank" class="btn btn-green btn-large">View The Sqwrl App</a>
-      <div class="title">
-        <div class="title-border"></div>
-        <img class="title-image" src="/img/all-screens.svg">
-      </div>
-      <h3>An all-screens approach</h3>
-      <h4>The Sqwrl app was designed from the ground up with a responsive approach to work seamless on all screen sizes, from mobile phones to large screen monitors to allow collectors to acesss their collection when and where they want.
-      </h4>
-      <img class="responsive-example" src="/img/responsive.jpg">
-      <div class="title">
-        <div class="title-border"></div>
-        <img class="title-image title-image-med" src="/img/car-collectible.svg">
-      </div>
-      <h3>An adaptable Collectible view</h3>
-      <h4>
-        The foundation of Sqwrl is collectibles, and providing a flexible, adaptable, and beatiful view for collector's collectibles was top priority.
-      </h4>
-      <img class="adaptable-view" src="/img/adaptable-view.jpg">
-      <div class="title">
-        <div class="title-border"></div>
-        <img class="title-image title-image-med" src="/img/profile-photo.svg">
-      </div>
-      <h3>A Simply Beautiful Collector Identity</h3>
-      <h4>
-        The center piece for Collector's allowing them to create an online home for themselves as a collector.
-      </h4>
-      <img class="beautiful-profile" src="/img/beautiful-profile.jpg">
-      <div class="footer">
-        <img class="footer-wordmark" src="/img/nifty-wordmark-white.svg">
-        <div class="social-icons">
-          <a href="https://twitter.com/theniftyco">
-            <img src="/img/twitter-icon.svg">
-          </a>
-          <a href="https://www.linkedin.com/company/the-nifty-co">
-            <img src="/img/linkedin-icon.svg">
-          </a>
-          <a href="https://www.facebook.com/theniftyco">
-            <img src="/img/facebook-icon.svg">
-          </a>
-        </div>
-      </div>
-  </section>
-
-  <!-- 
-//////////   Sqwrl Pitchdeck   ////////////
--->
-  <section class="overlay overlay-sqwrlpitchdeck">
-    <div class="overlay-background sqwrlapp-background"></div>
-    <div class="overlay-close js-close-overlay">Return to All Work</div>
-    <h1>Connected through Collecting</h1>
-    <h2>The Sqwrl pitchdeck, an animated telling of the Sqwrl story</h2>
-    <img class="feature-image" src="/img/iPad-Pitchdeck.png">
+    <h2>The Sqwrl collecting app, a responsive modern web app</h2>
+    <img class="feature-image" src="/img/iPad-Sqwrl.png">
     <p class="feature-paragraph">
-      As VP of Product at Sqwrl Collective Inc, Nifty founder Josh Perrin was responsible for crafting a unique, interesting, and informative telling of the Sqwrl story for investors.
+      As VP of Product at Sqwrl Collective Inc, Nifty founder Josh Perrin was responsible for designing and crafting an interface for the future of collecting. The design focus was to create a UI which falls into the background while highlighting the collector's collections. Continue below to see how this was accomplished...
     </p>
-    <a href="http://invest.sqrwl.com/everythingcollectible" class="btn btn-green btn-large">View The Sqwrl Pitchdeck</a>
+    <a href="http://www.sqwrl.com/stream" target="_blank" class="btn btn-green btn-large">View The Sqwrl App</a>
     <div class="title">
       <div class="title-border"></div>
-      <img class="title-image" src="/img/animated.svg">
+        <img class="title-image" src="/img/all-screens.svg">
     </div>
-    <h3>Animated Storytelling</h3>
+    <h3>An all-screens approach</h3>
     <h4>
-      Creating a clean moving design to keep the reader interested and educated.
+      Designed from the ground up with a responsive approach, the application was crafted to work seamless on all screen sizes. From mobile phones to large screen monitors, the application adapts allowing collectors to acesss their collection when and where they want.
     </h4>
-    <img class="responsive-example" src="/img/collecting-challenges.jpg">
+    <img class="responsive-example" src="/img/responsive.jpg">
     <div class="title">
       <div class="title-border"></div>
-      <img class="title-image title-image-med" src="/img/interactive-data.svg">
+      <img class="title-image title-image-med" src="/img/car-collectible.svg">
     </div>
-    <h3>Interactive Data</h3>
+    <h3>An adaptable collectible view</h3>
     <h4>
-      A moving interactive design to display the data.
+      Starting from the core of Sqwrl, collectibles, the collectible view was designed to allow the collector to see their collectibles how they want.
     </h4>
-    <img class="responsive-example" src="/img/interactive-data.jpg">
+    <img class="adaptable-view" src="/img/adaptable-view.jpg">
     <div class="title">
       <div class="title-border"></div>
-      <img class="title-image title-image-med" src="/img/soundtrack.svg">
+      <img class="title-image title-image-med" src="/img/profile-photo.svg">
     </div>
-    <h3>All to a soundtrack</h3>
+    <h3>A Simply Beautiful Collector Identity</h3>
     <h4>
-      Every great story deserves a soundtrack
+      The center piece for the collector's online identity, allowing them to craft an online home for themselves and their collectibles.
     </h4>
-    <img class="responsive-example" src="/img/soundtrack-screen.jpg">
+    <img class="beautiful-profile" src="/img/beautiful-profile.jpg">
     <div class="footer">
       <img class="footer-wordmark" src="/img/nifty-wordmark-white.svg">
       <div class="social-icons">
@@ -266,17 +220,79 @@
     </div>
   </section>
 
+  <!-- 
+//////////   Sqwrl Pitchdeck   ////////////
+-->
+  <section class="overlay overlay-sqwrlpitchdeck">
+    <div class="overlay-background sqwrlapp-background"></div>
+    <button class="overlay-close js-close-overlay">
+      <img src="/img/arrow-left.svg">
+      <p>Back</p>
+    </button>
+    <h1>Connected through Collecting</h1>
+            <h2>The Sqwrl pitchdeck, an animated telling of the Sqwrl story</h2>
+            <img class="feature-image" src="/img/iPad-Pitchdeck.png">
+            <p class="feature-paragraph">
+                As VP of Product at Sqwrl Collective Inc, Nifty founder Josh Perrin was responsible for crafting a unique, interesting, and informative telling of the Sqwrl story for investors. Continue below to see how this was accomplished...
+            </p>
+            <a href="http://invest.sqwrl.com" target="_blank" class="btn btn-green btn-large">View The Sqwrl Pitchdeck</a>
+            <div class="title">
+                <div class="title-border"></div>
+                <img class="title-image" src="/img/animated.svg">
+            </div>
+            <h3>Animated Storytelling</h3>
+            <h4>
+      Creating a clean moving design to keep the reader interested and educated.
+    </h4>
+            <img class="responsive-example" src="/img/collecting-challenges.jpg">
+            <div class="title">
+                <div class="title-border"></div>
+                <img class="title-image title-image-med" src="/img/interactive-data.svg">
+            </div>
+            <h3>Interactive Data</h3>
+            <h4>
+      An interactive design to display the data, numbers, and statistics.
+    </h4>
+            <img class="responsive-example" src="/img/interactive-data.jpg">
+            <div class="title">
+                <div class="title-border"></div>
+                <img class="title-image title-image-med" src="/img/soundtrack.svg">
+            </div>
+            <h3>All to a soundtrack</h3>
+            <h4>
+      Every great story deserves a soundtrack
+    </h4>
+            <img class="responsive-example" src="/img/soundtrack-screen.jpg">
+            <div class="footer">
+                <img class="footer-wordmark" src="/img/nifty-wordmark-white.svg">
+                <div class="social-icons">
+                    <a href="https://twitter.com/theniftyco">
+                        <img src="/img/twitter-icon.svg">
+                    </a>
+                    <a href="https://www.linkedin.com/company/the-nifty-co">
+                        <img src="/img/linkedin-icon.svg">
+                    </a>
+                    <a href="https://www.facebook.com/theniftyco">
+                        <img src="/img/facebook-icon.svg">
+                    </a>
+                </div>
+            </div>
+        </section>
 
-  <!-- //////////   Maskapic   ////////////
+
+        <!-- //////////   Maskapic   ////////////
 -->
   <section class="overlay overlay-maskapic">
     <div class="overlay-background sqwrlapp-background"></div>
-    <div class="overlay-close js-close-overlay">Return to All Work</div>
-    <h1>A Simple Android Photo App</h2>
+    <button class="overlay-close js-close-overlay">
+      <img src="/img/arrow-left.svg">
+      <p>Back</p>
+    </button>
+      <h1>A Simple Android Photo App</h2>
       <h2>Making it quick and easy to remove your photo’s background</h2>
       <img class="feature-image" src="/img/iPad-Maskapic.png">
       <p class="feature-paragraph">
-        As VP of Product at Sqwrl Collective Inc, Nifty founder Josh Perrin was responsible for desiging and developing a simple yet informative marketing website for the Maskapic Android app. Telling the story clearly and quickly while driving the user to the app store.
+        As VP of Product at Sqwrl Collective Inc, Nifty founder Josh Perrin was responsible for desiging and developing a simple yet informative marketing website for the Maskapic Android app. Telling the story clearly and quickly while driving the user to the app store. Continue below to see how this was accomplished...
       </p>
       <a href="maskapic.com/index.html" target="_blank" class="btn btn-green btn-large">View The Maskapic Website</a>
       <div class="title">
@@ -328,12 +344,15 @@
 -->
   <section class="overlay overlay-madamemoje">
     <div class="overlay-background sqwrlapp-background"></div>
-    <div class="overlay-close js-close-overlay">Return to All Work</div>
+    <button class="overlay-close js-close-overlay">
+      <img src="/img/arrow-left.svg">
+      <p>Back</p>
+    </button>
     <h1>Bringing Parisian Fashion to Canada</h2>
       <h2>Contemporary clean e-commerce for a new brand</h2>
       <img class="feature-image" src="/img/iPad-MadameMoje.png">
       <p class="feature-paragraph">
-        The Nifty Co. worked with <a href="http://wagdesign.ca/" target"_blank">wag design</a> to craft an elegant and clean e-commerce website for upcoming Canadian fashion brand Madame Moje. Creating a beautiful design which showcases the fashion designs while providing a flexible CMS for easy future modifications.
+        The Nifty Co. worked with <a href="http://wagdesign.ca/" target"_blank">wag design</a> to craft an elegant and clean e-commerce website for upcoming Canadian fashion brand Madame Moje. Creating a beautiful design which showcases the fashion designs while providing a flexible CMS for easy future modifications. Continue below to see how this was accomplished...
       </p>
       <a href="http://madamemoje.com" target="_blank" class="btn btn-green btn-large">View The Madame Moje Site</a>
       <div class="title">
@@ -385,12 +404,15 @@
 -->
   <section class="overlay overlay-rainwater">
     <div class="overlay-background sqwrlapp-background"></div>
-    <div class="overlay-close js-close-overlay">Return to All Work</div>
+    <button class="overlay-close js-close-overlay">
+      <img src="/img/arrow-left.svg">
+      <p>Back</p>
+    </button>
     <h1>A drop in your bucket</h2>
       <h2>Working with Mother Nature to bring you water</h2>
       <img class="feature-image" src="/img/iPad-WestCoastRain.png">
       <p class="feature-paragraph">
-        The Nifty Co. and WestCoast Rainwater teamed up to create a simple yet beautiful website to attract new customers and inform them of WestCoast Rainwater's collection and harvesting services.
+        The Nifty Co. and WestCoast Rainwater teamed up to create a simple yet beautiful website to attract new customers and inform them of WestCoast Rainwater's collection and harvesting services. Continue below to see how this was accomplished...
       </p>
       <a href="http://www.westcoastrain.ca/" target="_blank" class="btn btn-green btn-large">View The WestCoast Rainwater Website</a>
       <div class="title">
@@ -443,12 +465,15 @@
 -->
   <section class="overlay overlay-phils">
     <div class="overlay-background sqwrlapp-background"></div>
-    <div class="overlay-close js-close-overlay">Return to All Work</div>
+    <button class="overlay-close js-close-overlay">
+      <img src="/img/arrow-left.svg">
+      <p>Back</p>
+    </button>
     <h1>A taste of Nova Scotia</h2>
       <h2>Crafting a home for your local eatery</h2>
       <img class="feature-image" src="/img/iPad-Phils.png">
       <p class="feature-paragraph">
-        Nifty founder Josh Perrin created a website for his parents family owned restaurant, Phil's Seafood. After years of using restaurant websites with terrible design and PDF menus, the goal was simple, providing the information you need at your finger tips.
+        Nifty founder Josh Perrin created a website for his parents family owned restaurant, Phil's Seafood. After years of using restaurant websites with terrible design and PDF menus, the goal was simple, providing the information you need at your finger tips. Continue below to see how this was accomplished...
       </p>
       <a href="http://www.philsseafood.ca" target="_blank" class="btn btn-green btn-large">View The Phil's Seafood Website</a>
       <div class="title">
@@ -505,23 +530,18 @@
   <script src="js/min/main-min.js"></script>
 
 
-  <!-- Google Analytics: TODO:change UA-XXXXX-X to be your site's ID. -->
-  <script>
-  (function(b, o, i, l, e, r) {
-      b.GoogleAnalyticsObject = l;
-      b[l] || (b[l] = function() {
-        (b[l].q = b[l].q || []).push(arguments)
-      });
-      b[l].l = +new Date;
-      e = o.createElement(i);
-      r = o.getElementsByTagName(i)[0];
-      e.src = '//www.google-analytics.com/analytics.js';
-      r.parentNode.insertBefore(e, r)
-    }
-    (window, document, 'script', 'ga'));
-  ga('create', 'UA-XXXXX-X');
+<!-- Google Analytics -->
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57100138-1', 'auto');
   ga('send', 'pageview');
-  </script>
+
+</script>
+
 </body>
 
 </html>

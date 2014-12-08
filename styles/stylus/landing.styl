@@ -36,7 +36,7 @@ img
 	left 0
 	width 100%
 	height 100%
-	opacity 0.6
+	opacity 0.9
 	background-color $white
 
 .menu-icon
@@ -69,23 +69,23 @@ img
 	display none
 	opacity 0
 	position relative
-	top 20px
-	margin 0 auto 75px auto
-	width 425px
-	@media (max-height: 760px)
-		width 350px
-	@media (max-height: 620px)
-		width 250px
-		margin 0 auto 40px auto
-	@media (max-width: 700px)
-		width 350px
-	@media (max-width: 555px)
-		width 250px
-	@media (max-width: 360px)
-		top 15px
-		width 200px
+	margin 175px auto 90px auto
+	max-width 600px
+	width 90%
+	@media (max-height: 750px)
+		margin-top 150px
+	@media (max-height: 690px)
+		margin-top 125px
+	@media (max-height: 635px)
+		margin-top 100px
+	@media (max-height: 600px)
+		margin-top 75px
+	@media (max-width: 500px)
+		padding 0 20px
+
 
 .landing-actions
+	display none
 	position relative
 	width 100%
 	margin 0 auto
@@ -104,19 +104,15 @@ img
 	text-align center
 	font-family 'bebas-neue'
 	font-size 95px
+	font-weight 300
 	color $white
+	cursor pointer
 	transition all 0.7s ease
 	&.is-intro
 		color $lightgrey
 		bottom 45%
 	@media (max-height: 400px)
 		display none
-	@media (max-height: 760px)
-		font-size 75px
-		bottom -19px
-	@media (max-height: 760px)
-		font-size 55px
-		bottom -16px
 	@media (max-width: 1170px)
 		font-size 85px
 		bottom -23px
