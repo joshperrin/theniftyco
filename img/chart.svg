@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="114px" viewBox="0 0 130 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bar-chart-lg" transform="translate(1.000000, 1.000000)" fill="#808080" fill-rule="nonzero" stroke="#666666">
+            <path d="M0,0 L0,112 L128,112 L128,110 L2,110 L2,102 L4,102 L4,100 L2,100 L2,92 L6,92 L6,90 L2,90 L2,82 L4,82 L4,80 L2,80 L2,72 L6,72 L6,70 L2,70 L2,62 L4,62 L4,60 L2,60 L2,52 L6,52 L6,50 L2,50 L2,42 L4,42 L4,40 L2,40 L2,32 L6,32 L6,30 L2,30 L2,22 L4,22 L4,20 L2,20 L2,12 L6,12 L6,10 L2,10 L2,2 L4,2 L4,0 L0,0 Z M62,8 L62,108 L74,108 L74,8 L62,8 Z M86,26 L86,108 L98,108 L98,26 L86,26 Z M110,36 L110,108 L122,108 L122,36 L110,36 Z M38,46 L38,108 L50,108 L50,46 L38,46 Z M14,58 L14,108 L26,108 L26,58 L14,58 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -70,6 +70,24 @@
 	border-bottom 3px solid $white
 	background-color $lightgrey
 
+.work-bluebird
+	color: $white
+	background-image: linear-gradient(-180deg,rgba(79,227,202,.7),hsla(90,69%,72%,.7))
+
+.work-coe
+	padding-top: 30px
+	background url("../../img/violin.png") no-repeat center center
+	background-size cover
+	img
+		height: 190px
+
+.work-wetpaint
+	color: $white
+	padding-top: 100px
+	background-color: #4A4A4A
+	img
+		margin-bottom: 25px
+
 .work-sqwrl-app
 	color $white
 	background-color $sqwrlred
@@ -120,7 +138,7 @@
 .work-title
 	margin 12px auto
 	font-family 'bebas-neue'
-	
+
 .work-subtitle
 	margin-top 0
 	margin-bottom 35px
@@ -207,7 +225,7 @@
 
 .page-contact
 	display none
-	padding-top 35px 
+	padding-top 35px
 	background-color $cream
 	border 15px solid $green
 	text-align center
@@ -215,13 +233,14 @@
 .contact-link
 	color $grey
 	text-decoration none
-	font-size 6em
+	font-size 4em
 	font-family 'Fenix'
 	transition color 0.6s
 	&:hover
 		color $green
-	@media (max-height: 450px)
-		font-size 2.5em
+	@media (max-width: 780px)
+		font-size 3em
 	@media (max-width: 650px)
 		font-size 1.5em
-
+	@media (max-height: 450px)
+		font-size 2.5em

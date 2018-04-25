@@ -5,6 +5,8 @@
 	left 0
 	width 100%
 	text-align center
+	@media (max-width: 700px)
+		padding-top: 40px
 	h1
 		font-size 4em
 		color $white
@@ -65,11 +67,44 @@
 	&:hover
 		background-color darken($green, 15%)
 		transform translateX(-8px)
+	@media (max-width: 700px)
+		top: 0
+		left: 0
+		height: 45px
+		width: auto
+		border-radius: 0
+		padding: 10px 15px
+		font-size: 1em
+		box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+		p
+			display: inline-block;
+			vertical-align: top
+			margin-left: 5px
+			margin-top: 2px
+		&:hover
+			transform: none;
+
+.overlay-close.mobile-bar-btn
+	@media (max-width: 700px)
+		top: 0
+		left: 0
+		width: 100%
+		border-radius: 0
+		height: 40px
+		padding-top: 10px
+		border-left: none
+		border-right: none
+		border-top: none
+		p
+			display: inline-block
+			vertical-align: top
+			margin: 1px 0 0 5px
+
 
 .page-about
 	.overlay-close
 		left auto
-		right 35px
+		right 0
 
 .overlay-background
 	position absolute
@@ -98,8 +133,26 @@
 		z-index 10
 		background-color rgba(0,0,0,0.2)
 
+.sunset-background
+	background url("../../img/beach-sunset.jpg") bottom
+	background-size cover
+	&:after
+		content ""
+		position absolute
+		top 0
+		left 0
+		height 100%
+		width 100%
+		z-index 10
+		background-color rgba(0,0,0,0.2)
+
 .feature-image
 	padding 0 75px
+	@media (max-width: 675px)
+		padding 0 25px
+
+.feature-image-sm
+	padding 0 150px
 	@media (max-width: 675px)
 		padding 0 25px
 
@@ -109,6 +162,8 @@
 	font-size 1.6em
 	color $grey
 	font-family 'Fenix'
+	&.space-below
+		margin-bottom: 100px
 	@media (max-width: 675px)
 		margin 30px auto 10px auto
 		padding 0 20px
@@ -129,7 +184,10 @@
 .title-image-med
 	height 135px
 	padding 10px 20px
-	
+
+.title-image-sm
+	height 135px
+
 .title-border
 	display block
 	position absolute
@@ -140,10 +198,8 @@
 
 .responsive-example,
 .beautiful-profile
-	max-width 1100px
+	max-width 75%
 	margin 40px auto 100px
-	@media (max-width: 1110px)
-		max-width 95%
 
 .adaptable-view
 	padding 0 100px
@@ -152,6 +208,4 @@
 .rainwater-logo
 	width 90%
 	max-width 550px
-	margin 40px auto 150px auto 
-
-
+	margin 40px auto 150px auto
